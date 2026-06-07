@@ -9,10 +9,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	tea "charm.land/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/charmbracelet/harmonica"
 	"github.com/charmbracelet/x/ansi"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // ColorFunc is a function that can be used to dynamically fill the progress

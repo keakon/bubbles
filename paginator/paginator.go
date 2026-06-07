@@ -7,8 +7,8 @@ package paginator
 import (
 	"fmt"
 
-	"charm.land/bubbles/v2/key"
-	tea "charm.land/bubbletea/v2"
+	"github.com/keakon/bubbles/v2/key"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // Type specifies the way we render pagination.

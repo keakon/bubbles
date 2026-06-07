@@ -5,10 +5,10 @@ import (
 	"io"
 	"strings"
 
-	"charm.land/bubbles/v2/key"
-	tea "charm.land/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/charmbracelet/x/ansi"
+	"github.com/keakon/bubbles/v2/key"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // DefaultItemStyles defines styling for a default list item.

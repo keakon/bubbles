@@ -3,7 +3,7 @@ package paginator
 import (
 	"testing"
 
-	tea "charm.land/bubbletea/v2"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 func TestNew(t *testing.T) {

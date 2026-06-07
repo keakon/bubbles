@@ -11,10 +11,10 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"charm.land/bubbles/v2/key"
-	tea "charm.land/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/dustin/go-humanize"
+	"github.com/keakon/bubbles/v2/key"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 var lastID int64
