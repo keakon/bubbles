@@ -1,8 +1,8 @@
 package list
 
 import (
-	"github.com/keakon/bubbles/v2/textinput"
 	"charm.land/lipgloss/v2"
+	"github.com/keakon/bubbles/v2/textinput"
 )
 
 const (

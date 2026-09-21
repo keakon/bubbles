@@ -7,10 +7,10 @@ import (
 	"time"
 	"unicode"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/MakeNowJust/heredoc"
 	"github.com/charmbracelet/x/ansi"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 func TestVerticalScrolling(t *testing.T) {

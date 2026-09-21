@@ -4,8 +4,8 @@ import (
 	"image/color"
 	"time"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // DefaultStyles returns the default styles for focused and blurred states for

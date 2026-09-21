@@ -8,12 +8,12 @@ import (
 	"strings"
 	"unicode"
 
+	"charm.land/lipgloss/v2"
+	"github.com/atotto/clipboard"
 	"github.com/keakon/bubbles/v2/cursor"
 	"github.com/keakon/bubbles/v2/internal/runeutil"
 	"github.com/keakon/bubbles/v2/key"
 	tea "github.com/keakon/bubbletea/v2"
-	"charm.land/lipgloss/v2"
-	"github.com/atotto/clipboard"
 	rw "github.com/mattn/go-runewidth"
 	"github.com/rivo/uniseg"
 )

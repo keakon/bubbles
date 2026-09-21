@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 const defaultBlinkSpeed = time.Millisecond * 530

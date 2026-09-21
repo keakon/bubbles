@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	ltree "charm.land/lipgloss/v2/tree"
 	"github.com/charmbracelet/x/ansi"
+	tea "github.com/keakon/bubbletea/v2"
 
 	"github.com/keakon/bubbles/v2/help"
 	"github.com/keakon/bubbles/v2/key"

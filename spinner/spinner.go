@@ -5,8 +5,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // Internal ID management. Used during animating to ensure that frame messages

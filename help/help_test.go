@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/keakon/bubbles/v2/key"
 	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/exp/golden"
+	"github.com/keakon/bubbles/v2/key"
 )
 
 func TestFullHelp(t *testing.T) {

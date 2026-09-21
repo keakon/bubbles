@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/charmbracelet/x/ansi"
+	tea "github.com/keakon/bubbletea/v2"
 	"github.com/sahilm/fuzzy"
 
 	"github.com/keakon/bubbles/v2/help"

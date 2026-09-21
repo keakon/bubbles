@@ -12,15 +12,15 @@ import (
 	"time"
 	"unicode"
 
+	"charm.land/lipgloss/v2"
+	"github.com/atotto/clipboard"
+	"github.com/charmbracelet/x/ansi"
 	"github.com/keakon/bubbles/v2/cursor"
 	"github.com/keakon/bubbles/v2/internal/memoization"
 	"github.com/keakon/bubbles/v2/internal/runeutil"
 	"github.com/keakon/bubbles/v2/key"
 	"github.com/keakon/bubbles/v2/viewport"
 	tea "github.com/keakon/bubbletea/v2"
-	"charm.land/lipgloss/v2"
-	"github.com/atotto/clipboard"
-	"github.com/charmbracelet/x/ansi"
 	rw "github.com/mattn/go-runewidth"
 	"github.com/rivo/uniseg"
 )
