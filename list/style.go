@@ -1,7 +1,7 @@
 package list
 
 import (
-	"charm.land/bubbles/v2/textinput"
+	"github.com/keakon/bubbles/v2/textinput"
 	"charm.land/lipgloss/v2"
 )
 

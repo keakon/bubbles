@@ -4,10 +4,10 @@ package table
 import (
 	"strings"
 
-	"charm.land/bubbles/v2/help"
-	"charm.land/bubbles/v2/key"
-	"charm.land/bubbles/v2/viewport"
-	tea "charm.land/bubbletea/v2"
+	"github.com/keakon/bubbles/v2/help"
+	"github.com/keakon/bubbles/v2/key"
+	"github.com/keakon/bubbles/v2/viewport"
+	tea "github.com/keakon/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/charmbracelet/x/ansi"
 )

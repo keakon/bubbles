@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	tea "charm.land/bubbletea/v2"
+	tea "github.com/keakon/bubbletea/v2"
 )
 
 // newTestDir creates a directory containing a subdirectory with a file in it.
